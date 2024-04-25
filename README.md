@@ -1,6 +1,12 @@
 <h1 align="center">Olá, meu nome é Estyvison Linhares!</h1>
 <h3 align="center">“Se Deus dá ao homem bens e riquezas, e lhe concede delas comer e delas tomar sua parte, e se alegrar no seu trabalho, isso é um dom de Deus.” (Eclesiastes 6, 18)</h3>
 
+<h3 align="left">Um pouco sobre mim:</h3>
+<p align="left">Recife - PE</p>
+<p align="left">Desenvolvedor Fullstack C# .NET</p>
+<p align="left">Estudando Backend em Java com SpringBoot e MVC</p>
+<p align="left">Formado em Engenharia da Computação na <a href="https://www.upe.br/" target="blank"></a></p>
+
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/estyvison-linhares/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/estyvison-linhares/" height="30" width="40" /></a>
