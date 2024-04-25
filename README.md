@@ -5,7 +5,7 @@
 <p align="left">Recife - PE</p>
 <p align="left">Desenvolvedor Fullstack C# .NET</p>
 <p align="left">Estudando Backend em Java com SpringBoot e MVC</p>
-<p align="left">Formado em Engenharia da Computação https://www.upe.br</p>
+<p align="left">Formado em Engenharia da Computação na https://www.upe.br</p>
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
